@@ -1,0 +1,15 @@
+{
+  "name": "apache-imitation",
+  "version": "1.0.0",
+  "description": "mime",
+  "main": "app.js",
+  "dependencies": {
+    "mime": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mengsaner",
+  "license": "ISC"
+}
